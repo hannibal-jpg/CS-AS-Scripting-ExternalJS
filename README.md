@@ -16,7 +16,7 @@ All scripts live in a dedicated `.js` file like true professionals. HTML remains
 
 Open `index.html` in any browser made after 1995.  
 Or visit the Netlify preview (hosted because GitHub Pages wasn’t enough):  
-👉 [Live Demo](https://cs-scripting.netlify.app/)
+👉 [Live Demo](https://cs-external-js.netlify.app/)
 
 ## Technologies Used
 
