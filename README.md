@@ -1,4 +1,4 @@
-# 🧠 CS Scripting: External JavaScript
+# 🎀 CS Scripting: External JavaScript
 
 This repository demonstrates the “advanced” concept of separating JavaScript from HTML — a cutting-edge best practice from the early 2000s.
 
